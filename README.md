@@ -2,7 +2,7 @@
 
 <h3 align="center">Encrontre Devs próximos a você podendo filtrar pelas tecnologias que usam.</h3>
 
-<img width=435px height=800px src="./mobileexample.png"/> <img width=435px height=800px src="./webexample.png"/>
+<img width=430px height=800px src="./mobileexample.png"/> <img width=430px height=800px src="./webexample.png"/>
 
 ## Como iniciar o projeto
 
@@ -37,6 +37,6 @@
 - Abra o aplicativo ```Expo``` e escaneie o QRCode do site ou coloque o ip do site da Expo que foi aberto quando iniciou a aplicação mobile.
 - Insira as tecnologias desejadas no campo de texto e clique no botão ao lado para procurar os devs. Clique na foto deles para abrir a bio e clique na bio para abrir o perfil do github.
 
-<img width=435px height=800px src="./lookingforMobile.gif"/> <img width=435px height=800px src="./githubGif.gif"/>
+<img width=430px height=800px src="./lookingforMobile.gif"/> <img width=430px height=800px src="./githubGif.gif"/>
 
 Projeto realizado na Semana Omnistack 10.  
